@@ -1,0 +1,2 @@
+class Employee:
+    position = None
